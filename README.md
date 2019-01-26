@@ -13,16 +13,16 @@ The first line contains two integers 𝑛 and 𝑚 (1⩽𝑛⩽2000, 0⩽𝑚⩽
 Exit
 For each data set, write 𝑛 lines containing integers - the number of seats that will be given to the parties, in the order as they appeared at the entrance.
 
-Example
-For input data: 
-1
-4 12
-14
-15
-12
-7
-The correct answer is:
-4
-4
-3
-1
+Example  
+For input data:   
+1  
+4 12  
+14  
+15  
+12  
+7  
+The correct answer is:  
+4  
+4  
+3   
+1  
